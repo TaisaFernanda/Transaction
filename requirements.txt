@@ -1,1 +1,4 @@
-requirements.txt
+flask
+flask-odata
+pandas
+gunicorn
